@@ -28,3 +28,5 @@ This repo contains a basic collections of useful documentation, links and tutori
 ### Code Samples
 
 - [Multi-touch Benchmarking](https://github.com/borismus/MagicTouch/blob/master/index.html) - 2011
+	- [FingerPrint Browser](https://github.com/Valve/fingerprintjs2): interesting for user browser usage and capacity collection
+		- [CND](http://www.jsdelivr.com/projects/fingerprintjs2)
